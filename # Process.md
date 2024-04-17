@@ -6,7 +6,6 @@
 2. Use the [Amazon/Kindle Book List Exporter](https://chromewebstore.google.com/detail/amazonkindle-book-list-ex/cnmmnejiklbbkapmjegmldhaejjiejbo) extension to export my book list as a CSV.
 3. Import the CSV into Excel, using Power Query to eliminate titles that were shared with me or that were just book samples. I want to analyze information *only* about books that I actually purchased or borred from the library.
 
-
 ## Analyze the data
 
 Questions to ask:
